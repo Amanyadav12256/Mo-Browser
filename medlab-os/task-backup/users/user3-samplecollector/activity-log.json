@@ -1,0 +1,12 @@
+{
+  "git": {
+    "owner": "Amanyadav12256",
+    "repo": "Mo-Browser",
+    "branch": "main"
+  },
+  "backupKind": "medlab-os-raw-json",
+  "backupVersion": 1,
+  "zipBase64": "ewogICJ1cGRhdGVkQXQiOiAiMjAyNi0wNy0xNlQxMTozNDo0My44NjVaIiwKICAiZW50cmllcyI6IFsKICAgIHsKICAgICAgImFjdGlvbiI6ICJBUFBPSU5UTUVOVF9DT0xMRUNURUQiLAogICAgICAicGF0aWVudE5hbWUiOiAiQWFyYXYgU2hhcm1hIiwKICAgICAgImJ5IjogIlN1bml0YSAoU2FtcGxlIENvbGxlY3RvcikiLAogICAgICAiYXQiOiAiMjAyNi0wNy0xNlQxMTozNDo0MS4yOTFaIiwKICAgICAgImRldGFpbHMiOiAiQXBwb2ludG1lbnQgIzEiCiAgICB9CiAgXQp9",
+  "_kind": "browser-payload",
+  "_savedAt": "2026-07-16T11:34:43.872Z"
+}
